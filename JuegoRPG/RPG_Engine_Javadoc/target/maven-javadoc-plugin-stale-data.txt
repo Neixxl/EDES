@@ -1,0 +1,40 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-private
+-source
+'17'
+-sourcepath
+'C:/Users/nriohol/Documents/EDES/JuegoRPG/RPG_Engine_Javadoc/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/nriohol/Documents/EDES/JuegoRPG/RPG_Engine_Javadoc/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'RPG_Engine_Javadoc 1.0-SNAPSHOT API'
+-nohelp
+-use
+-version
+-windowtitle
+'RPG_Engine_Javadoc 1.0-SNAPSHOT API'
+com.game.engine
+C:\Users\nriohol\Documents\EDES\JuegoRPG\RPG_Engine_Javadoc\src\main\java = 1770840118613
+C:\Users\nriohol\Documents\EDES\JuegoRPG\RPG_Engine_Javadoc\target\site\apidocs\allclasses-index.html = 1770840171719
+C:\Users\nriohol\Documents\EDES\JuegoRPG\RPG_Engine_Javadoc\target\site\apidocs\allpackages-index.html = 1770840171723
+C:\Users\nriohol\Documents\EDES\JuegoRPG\RPG_Engine_Javadoc\target\site\apidocs\deprecated-list.html = 1770840171699
+C:\Users\nriohol\Documents\EDES\JuegoRPG\RPG_Engine_Javadoc\target\site\apidocs\element-list = 1770840171587
+C:\Users\nriohol\Documents\EDES\JuegoRPG\RPG_Engine_Javadoc\target\site\apidocs\index-all.html = 1770840171871
+C:\Users\nriohol\Documents\EDES\JuegoRPG\RPG_Engine_Javadoc\target\site\apidocs\index.html = 1770840171949
+C:\Users\nriohol\Documents\EDES\JuegoRPG\RPG_Engine_Javadoc\target\site\apidocs\member-search-index.js = 1770840171732
+C:\Users\nriohol\Documents\EDES\JuegoRPG\RPG_Engine_Javadoc\target\site\apidocs\module-search-index.js = 1770840171727
+C:\Users\nriohol\Documents\EDES\JuegoRPG\RPG_Engine_Javadoc\target\site\apidocs\overview-tree.html = 1770840171656
+C:\Users\nriohol\Documents\EDES\JuegoRPG\RPG_Engine_Javadoc\target\site\apidocs\package-search-index.js = 1770840171729
+C:\Users\nriohol\Documents\EDES\JuegoRPG\RPG_Engine_Javadoc\target\site\apidocs\search.html = 1770840171947
+C:\Users\nriohol\Documents\EDES\JuegoRPG\RPG_Engine_Javadoc\target\site\apidocs\tag-search-index.js = 1770840171733
+C:\Users\nriohol\Documents\EDES\JuegoRPG\RPG_Engine_Javadoc\target\site\apidocs\type-search-index.js = 1770840171730
